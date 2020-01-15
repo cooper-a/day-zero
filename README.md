@@ -14,3 +14,7 @@ Our interactive and predictive data visualization tool uses NASA Copernicus sate
 * **Wasiq Mohammad** - *Enhanced image processing pipeline with windowing* - [wasiqm](https://github.com/wasiqm)
 * **Graeme Ko** - *Worked on image processing of the satellite data using Python OpenCV* - [mountainsky](https://github.com/mountainsky)
 * **Jing Liu** - *Worked on the front end of the application in React* - [musicbyjing](https://github.com/musicbyjing)
+
+
+*This repository was forked so that I could continue development of this idea*  
+*Cooper Ang*
