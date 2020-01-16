@@ -6,6 +6,10 @@ https://www.spaceappschallenge.org/
 
 Our interactive and predictive data visualization tool uses NASA Copernicus satellite data and information to and identify populations vulnerable to Day Zero and predict the point at which our actions become irreversible.
 
+It uses OpenCV to classify water bodies in historical images and models what will happen in the future.
+
+In the future we would like to implement fuzzy clustering to better classify bodies of water.
+
 
 ## Authors
 
